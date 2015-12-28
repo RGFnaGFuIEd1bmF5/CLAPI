@@ -1,0 +1,15 @@
+{
+  "name": "clapi",
+  "version": "1.0.0",
+  "description": "Command Line Application Programming Interface",
+  "main": "clapi.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "buraktutanlar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3"
+  }
+}
